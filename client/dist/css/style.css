@@ -1,0 +1,22 @@
+.navbar-nav>li>a{
+  color: #FFFFFF;
+}
+.nav{
+  background-color: #3B5998;
+}
+body{
+  background-color: #DFE3EE;
+}
+mark{
+  background-color: #ffcccc;
+  color:black;
+}
+
+table {
+    table-layout: fixed;
+}
+
+
+a{
+  text-decoration: none;!important
+}
